@@ -1,0 +1,109 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2025-01-10",
+      "category": "Groceries",
+      "amount": 500
+    },
+    {
+      "id": 2,
+      "date": "2025-01-12",
+      "category": "Utilities",
+      "amount": 100
+    },
+    {
+      "id": 3,
+      "date": "2025-01-14",
+      "category": "Entertainment",
+      "amount": 75
+    },
+    {
+      "id": 4,
+      "date": "2025-01-18",
+      "category": "Transport",
+      "amount": 30
+    },
+    {
+      "id": 5,
+      "date": "2025-02-05",
+      "category": "Groceries",
+      "amount": 40
+    },
+    {
+      "id": 6,
+      "date": "2025-02-10",
+      "category": "Rent",
+      "amount": 500
+    },
+    {
+      "id": 7,
+      "date": "2025-02-15",
+      "category": "Entertainment",
+      "amount": 100
+    },
+    {
+      "id": 8,
+      "date": "2025-03-03",
+      "category": "Transport",
+      "amount": 60
+    },
+    {
+      "id": 9,
+      "date": "2025-03-10",
+      "category": "Utilities",
+      "amount": 120
+    },
+    {
+      "id": 10,
+      "amount": 1000,
+      "category": "Meeting",
+      "date": "2025-01-18",
+      "type": "expense"
+    }
+  ],
+  "budgets": [
+    {
+      "id": 1,
+      "category": "Groceries",
+      "budget": 1000,
+      "spent": 90
+    },
+    {
+      "id": 2,
+      "category": "Utilities",
+      "budget": 200,
+      "spent": 150
+    },
+    {
+      "id": 3,
+      "category": "Entertainment",
+      "budget": 300,
+      "spent": 175
+    },
+    {
+      "id": 4,
+      "category": "Transport",
+      "budget": 150,
+      "spent": 90
+    },
+    {
+      "id": 5,
+      "category": "Rent",
+      "budget": 600,
+      "spent": 500
+    },
+    {
+      "id": 6,
+      "category": "Rent",
+      "budget": 200,
+      "spent": 0
+    },
+    {
+      "id": 7,
+      "category": "Meeting",
+      "budget": 100,
+      "spent": 70
+    }
+  ]
+}
