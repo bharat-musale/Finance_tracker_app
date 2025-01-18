@@ -1,4 +1,4 @@
-# Finance Manager Frontend
+# Finance Tracker Frontend
 
 A modern React-based financial management application that helps users track their expenses, manage budgets, and visualize financial data.
 

@@ -1,4 +1,4 @@
-# Finance Manager Backend
+# Finance Tracker Backend
 
 A Node.js-based RESTful API service that manages financial data for the Finance Manager application.
 
